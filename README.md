@@ -1,4 +1,4 @@
-Sunny-SmartNote
+Sunny SmartNote
 =========================================
 v5.0 (Open Source Edition)
 
